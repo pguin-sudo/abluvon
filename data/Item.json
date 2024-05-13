@@ -1,0 +1,12 @@
+{
+    "objects": [
+        {
+            "id": "T4_BAG",
+            "name": "Unknown",
+            "description": "No description",
+            "price": 0.0,
+            "image_url": "https://orientacorp.ru",
+            "link": "https://orientacorp.ru/"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "objects": [
+        {
+            "id": "301",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Arthurs Rest",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Black Market",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Brecilien",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Bridgewatch",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Caerleon",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Forest Cross",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Fort Sterling",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Highland Cross",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Lymhurst Portal",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Lymhurst",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Martlock",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Merlyns Rest",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Morganas Rest",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Mountain Cross",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Steppe Cross",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Swamp Cross",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        },
+        {
+            "id": "Thetford",
+            "name": "Unknown",
+            "description": "No description",
+            "color": "#DDDDDD",
+            "is_portal": false
+        }
+    ]
+}
